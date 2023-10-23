@@ -127,3 +127,79 @@ button {
     font-size: 18px;
     margin-bottom: 130px;
 }
+
+.quote {
+    background-color: #E5E7EB; 
+    padding-top: 140px; 
+    padding-bottom: 100px;  
+}
+
+.italic {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    width: 790px;
+    height: 160px;
+    color: #1F2937;
+    margin: auto;
+    text-align: start;
+}
+
+.Thor {
+    font-size: 24px;
+    font-weight: 700;
+    text-align: end;
+    margin: auto;
+    width: 790px;
+    color: #1F2937;
+}
+
+.white {
+    background-color: #F9FAF8;
+}
+
+.blue {
+    background-color: #3882f6;
+    display: flex;
+    margin: 100px 190px;
+    border-radius: 10px;
+}
+
+.action {
+    justify-content: center;
+    align-items: center;
+    margin-left: 120px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#action {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#sign {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.up {
+    margin: auto;
+}
+
+
+.button {
+    border: 2px solid #F9FAF8;   
+    border-radius: 5px;    
+    color: #E5E7EB;
+    font-size: 16px;
+} 
+
+.copyright {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 40px;
+    text-align: center;
+    font-size: 18px;
+}
